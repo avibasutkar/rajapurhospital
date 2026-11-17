@@ -240,7 +240,7 @@ export default function Contact() {
                   <span>dr.suripatil11@gmail.com</span>
                 </a>
                 <a
-                  href="https://www.instagram.com/twachhaayurvedabydrsureshgouda/"
+                  href="https://www.instagram.com/rajapurhospital?dlrf=bnhyMmF1eTZweHJx&utm_source=qr"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-300 hover:text-pink-400 transition-colors"
@@ -255,7 +255,7 @@ export default function Contact() {
           <div className="text-center text-gray-400 text-sm flex flex-col md:flex-row justify-between items-center gap-3">
             <p>© {new Date().getFullYear()} Rajapur Hospital. All Rights Reserved.</p>
             <a
-              href="https://www.instagram.com/twachhaayurvedabydrsureshgouda/"
+              href="https://www.instagram.com/rajapurhospital?dlrf=bnhyMmF1eTZweHJx&utm_source=qr"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-gray-300 hover:text-pink-400 transition-colors"
