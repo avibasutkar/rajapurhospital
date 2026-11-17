@@ -1,0 +1,6 @@
+{
+  "name": "Rajapur Hospital",
+  "description": "Modern, responsive, SEO-friendly healthcare website for Rajapur Hospital providing Ayurveda treatment, General Healthcare, Hair Care, Skin Care, Fever, Allergy, and Twacha Ayurveda services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
